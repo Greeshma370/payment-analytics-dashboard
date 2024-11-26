@@ -30,7 +30,7 @@ https://www.kaggle.com/datasets/rajatsurana979/comprehensive-credit-card-transac
 Run the dashboard application with:
 bash
 python app.py
-Access the dashboard on your local machine via http://127.0.0.1:8050/.
+Access the dashboard on your local machine via https://6e18-34-48-95-129.ngrok-free.app
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
